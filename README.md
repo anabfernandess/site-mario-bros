@@ -1,5 +1,6 @@
 <h1 align="center">
   Site do filme Mario Bros
+  <img src="./estrela.png" width="50px" alt="estrela do Mario" />
 </h1>
 
 <p align="center">
